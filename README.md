@@ -16,6 +16,7 @@ numerical values.
 5.Determine training and test data set.
 6.Apply decision tree regression on to the dataframe.
 7.Get the values of Mean square error, r2 and data prediction.
+
 ## Program:
 ```
 /*
@@ -60,7 +61,6 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 [ex 7 1.data.head()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/57feed7c-8a1d-435e-82c1-1dba3c0a41e7)
 [ex 7 2.data.info()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/49f72f16-7ae0-41bc-aa4c-39be45716191)
 [ex 7 3.isnull()&sum()function](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/1c882a50-52fd-4c31-9652-48402344c894)
