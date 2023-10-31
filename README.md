@@ -61,7 +61,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-[ex 7 1.data.head()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/57feed7c-8a1d-435e-82c1-1dba3c0a41e7)
+![data.head()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/c03d338e-00ca-4fc0-902e-f5aeb6d53430)
 [ex 7 2.data.info()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/49f72f16-7ae0-41bc-aa4c-39be45716191)
 [ex 7 3.isnull()&sum()function](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/1c882a50-52fd-4c31-9652-48402344c894)
 [ex 7 4.data.head() for position](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/271a7a1e-7928-4706-9ff4-5e61b38ff17c)
