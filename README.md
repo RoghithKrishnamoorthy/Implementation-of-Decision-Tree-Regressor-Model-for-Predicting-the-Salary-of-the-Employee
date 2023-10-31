@@ -64,10 +64,15 @@ dt.predict([[5,6]])
 ![ex 7 1 data.head()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/e9f8c88e-c9ad-4412-9c09-dd57079b0c4e)
 
 ![ex 7 2.data.info()](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/49f72f16-7ae0-41bc-aa4c-39be45716191)
+
 ![ex 7 3.isnull()&sum()function](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/1c882a50-52fd-4c31-9652-48402344c894)
+
 ![ex 7 4.data.head() for position](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/271a7a1e-7928-4706-9ff4-5e61b38ff17c)
+
 ![ex 7 5.MSE value](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/01bfa785-ec74-48a0-9301-be5120b22295)
+
 ![ex 7 6.R2.value](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/fa2e385d-a158-4c99-8b2f-15a76d4ad241)
+
 ![ex 7 7.prediction value](https://github.com/RoghithKrishnamoorthy/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475474/041174c0-4624-48fe-bb82-34fa783792b2)
 
 ## Result:
